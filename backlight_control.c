@@ -7,7 +7,7 @@
  * @author: Hendrik Werner
  */
 
-#define MIN_BRIGHTNESS 1
+#define MIN_BRIGHTNESS 0
 
 #define MAX(a, b) ((a > b) ? a : b)
 #define MIN(a, b) ((a < b) ? a : b)
